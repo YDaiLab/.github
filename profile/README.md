@@ -10,8 +10,7 @@
 We welcome collaborations and contributions from researchers, students, and bioinformatics enthusiasts. If you're interested in contributing to our projects or joining the lab, feel free to check our repositories or contact us through our organizational page.
 
 ### Resources
-
-- 🧬 [https://array.lab.uic.edu/] (https://array.lab.uic.edu/) – Learn more about our research projects and publications.
+- 🧬 [Learn more about our research projects and publications](https://array.lab.uic.edu/) – Visit our lab website for detailed information.
 
 ### Fun Fact
 
