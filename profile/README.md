@@ -2,7 +2,7 @@
 
 ## About Us
 
-**The Laboratory of Computational Functional Genomics** focuses on the development of methods for the analysis and integration of omics data to understand underlying mechanisms of disease, facilitate the generation of testable hypotheses, and identify potential therapeutics in human and animal studies. Specifically, our research focuses on developing methods for inferring gene regulatory mechanisms, disease prediction, and discovering biomarkers based on genetic, genomic, epigenetic, and clinical data. Our approaches are diverse, including optimization, machine learning, and statistical modeling.
+**The Laboratory of Computational Omics (CompOmics-Lab)** focuses on the development of methods for the analysis and integration of omics data to understand underlying mechanisms of disease, facilitate the generation of testable hypotheses, and identify potential therapeutics in human and animal studies. Specifically, our research focuses on developing methods for inferring gene regulatory mechanisms, disease prediction, and discovering biomarkers based on genetic, genomic, epigenetic, and clinical data. Our approaches are diverse, including optimization, machine learning, and statistical modeling.
 
 
 ### How You Can Get Involved
